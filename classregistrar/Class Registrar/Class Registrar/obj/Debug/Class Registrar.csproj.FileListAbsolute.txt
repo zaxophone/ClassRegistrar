@@ -1,0 +1,9 @@
+c:\users\howie\downloads\classregistrar\Class Registrar\Class Registrar\bin\Debug\Class Registrar.exe.config
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\bin\Debug\Class Registrar.exe
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\bin\Debug\Class Registrar.pdb
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\obj\Debug\Class Registrar.csprojResolveAssemblyReference.cache
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\obj\Debug\Class_Registrar.ClassRegistrar.resources
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\obj\Debug\Class_Registrar.Properties.Resources.resources
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\obj\Debug\Class Registrar.csproj.GenerateResource.Cache
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\obj\Debug\Class Registrar.exe
+C:\Users\Howie\downloads\classregistrar\Class Registrar\Class Registrar\obj\Debug\Class Registrar.pdb
